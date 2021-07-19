@@ -1,8 +1,11 @@
 # Applied-SQL
 SQL queries one must know
-#### * Clause => WHERE- Distinct- ORDER BY- Group By -HAVING
-#### * Condition => AND- OR- AND & OR- LIKE- IN- IS NULL- NOT NULL- BETWEEN- ALTER
-####
+----
+Dataset: Amazon Fine Food Reviews Dataset
+Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
+----
+* #### Clause => WHERE- Distinct- ORDER BY- Group By -HAVING
+* #### Condition => AND- OR- AND & OR- LIKE- IN- IS NULL- NOT NULL- BETWEEN- ALTER
 
 
 ### 1. WHERE Clause
